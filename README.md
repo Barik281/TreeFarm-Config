@@ -95,7 +95,7 @@ local autopickuptoggle = PickSection:CreateToggle("autopickuptoggle", { Title = 
 local startMOVE = MoveSection:CreateToggle("StartMoving", { Title = "Start Moving", Default = false })
  
 -- Goldfarm Config
-local javaUrl = 'https://raw.githubusercontent.com/XDSCRIPTER/DefaultCFG.json/refs/heads/main/TweensCFG1.json'
+local javaUrl = 'https://github.com/Barik281/TreeFarm-Config/blob/6e5f53d77c371868d1bfec32c442300ed559205d/TreeFarm%20Config'
 
 --Auto CampFire
 local AutoCamFire = main:CreateToggle("AutoCamFire", { Title = "Auto Camp Fire", Default = false })
