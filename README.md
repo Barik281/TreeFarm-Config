@@ -1,139 +1,327 @@
-{"position":[{"X":-1293.9539794921875,"Y":-2.846259832382202,"Z":1125.9368896484375},
-{"X":-1284.5838623046875,"Y":-2.997779130935669,"Z":1121.9967041015625},
-{"X":-1278.02294921875,"Y":-1.2414445877075195,"Z":1117.614013671875},
-{"X":-1269.9244384765625,"Y":2.8138599395751953,"Z":1109.3258056640625},
-{"X":-1268.05224609375,"Y":4.276684284210205,"Z":1102.857421875},
-{"X":-1264.1978759765625,"Y":6.900405406951904,"Z":1093.6956787109375},
-{"X":-1259.9559326171875,"Y":8.688067436218262,"Z":1080.5108642578125},
-{"X":-1254.6298828125,"Y":8.083110809326172,"Z":1067.395263671875},
-{"X":-1251.578125,"Y":6.274402141571045,"Z":1056.5726318359375},
-{"X":-1248.71826171875,"Y":3.6594181060791016,"Z":1045.974365234375},
-{"X":-1246.19287109375,"Y":-0.2530224919319153,"Z":1036.4111328125},
-{"X":-1242.8194580078125,"Y":-3.000000238418579,"Z":1026.565673828125},
-{"X":-1238.702880859375,"Y":-3.00000238418579,"Z":1023.0694580078125},
-{"X":-1233.7318115234375,"Y":-3.00000238418579,"Z":1023.9095458984375},
-{"X":-1228.840087890625,"Y":-3.00000238418579,"Z":1023.4404907226562},
-{"X":-1224.2384033203125,"Y":-3.00000238418579,"Z":1024.2003173828125},
-{"X":-1215.034912109375,"Y":-2.999999523162842,"Z":1023.6464233398438},
-{"X":-1207.459228515625,"Y":-3.000000476837158,"Z":1023.1883544921875},
-{"X":-1200.7103271484375,"Y":-3.000000238418579,"Z":1023.0802001953125},
-{"X":-1193.5845947265625,"Y":-3.000000238418579,"Z":1022.575439453125},
-{"X":-1185.76904296875,"Y":-3,"Z":1022.063720703125},
-{"X":-1176.509033203125,"Y":-3.000000238418579,"Z":1023.655517578125},
-{"X":-1170.1832275390625,"Y":-3,"Z":1023.2542724609375},
-{"X":-1162.1710205078125,"Y":-2.913818120956421,"Z":1023.7523803710938},
-{"X":-1154.0400390625,"Y":-2.91949462890625,"Z":1021.0438232421875},
-{"X":-1142.4796142578125,"Y":-2.8573873043060303,"Z":1026.0887451171875},
-{"X":-1138.155517578125,"Y":-0.5129299163818359,"Z":1032.2392578125},
-{"X":-1138.957763671875,"Y":5.207772731781006,"Z":1036.36474609375},
-{"X":-1140.338623046875,"Y":11.85733413696289,"Z":1042.142578125},
-{"X":-1143.7371826171875,"Y":17.55237388611084,"Z":1048.1563720703125},
-{"X":-1149.247314453125,"Y":20.178363800048828,"Z":1056.1827392578125},
-{"X":-1154.7850341796875,"Y":18.839590072631836,"Z":1063.36865234375},
-{"X":-1161.659423828125,"Y":17.78245735168457,"Z":1063.387451171875},
-{"X":-1170.2567138671875,"Y":17.812498092651367,"Z":1064.283935546875},
-{"X":-1161.659423828125,"Y":17.78245735168457,"Z":1063.387451171875},
-{"X":-1170.2567138671875,"Y":17.812498092651367,"Z":1064.283935546875},
-{"X":-1178.045654296875,"Y":17.812498092651367,"Z":1068.8299560546875},
-{"X":-1185.5216064453125,"Y":17.80278778076172,"Z":1075.83056640625},
-{"X":-1191.3839111328125,"Y":16.999998092651367,"Z":1082.1768798828125},
-{"X":-1198.1280517578125,"Y":16.974760055541992,"Z":1091.94482421875},
-{"X":-1205.5970458984375,"Y":16.872451782226562,"Z":1101.379638671875},
-{"X":-1211.32177734375,"Y":16.999998092651367,"Z":1108.8065185546875},
-{"X":-1216.458984375,"Y":17.02130699157715,"Z":1113.50048828125},
-{"X":-1223.312744140625,"Y":17.18412971496582,"Z":1118.487060546875},
-{"X":-1216.458984375,"Y":17.02130699157715,"Z":1113.50048828125},
-{"X":-1223.312744140625,"Y":17.18412971496582,"Z":1118.487060546875},
-{"X":-1230.0234375,"Y":17.670778274536133,"Z":1123.775390625},
-{"X":-1237.953857421875,"Y":18.28105354309082,"Z":1132.517822265625},
-{"X":-1244.83349609375,"Y":19.268264770507812,"Z":1139.3919677734375},
-{"X":-1249.325439453125,"Y":23.518495559692383,"Z":1147.6915283203125},
-{"X":-1253.458251953125,"Y":29.282487869262695,"Z":1155.4197998046875},
-{"X":-1255.5938720703125,"Y":32.946834564208984,"Z":1162.18212890625},
-{"X":-1253.98486328125,"Y":36.536827087402344,"Z":1166.24755859375},
-{"X":-1251.21875,"Y":39.858707427978516,"Z":1169.60888671875},
-{"X":-1246.4473876953125,"Y":43.182777404785156,"Z":1174.1807861328125},
-{"X":-1236.3760986328125,"Y":47.30613708496094,"Z":1178.12939453125},
-{"X":-1229.8792724609375,"Y":47.73883819580078,"Z":1176.590576171875},
-{"X":-1218.2445068359375,"Y":48.91989517211914,"Z":1173.5699462890625},
-{"X":-1206.99462890625,"Y":51.228981018066406,"Z":1170.892578125},
-{"X":-1195.574462890625,"Y":51.281246185302734,"Z":1166.92626953125},
-{"X":-1188.7152099609375,"Y":51.281246185302734,"Z":1159.3687744140625},
-{"X":-1185.93115234375,"Y":51.281246185302734,"Z":1156.28955078125},
-{"X":-1179.63720703125,"Y":51.18290710449219,"Z":1149.0673828125},
-{"X":-1185.93115234375,"Y":51.281246185302734,"Z":1156.28955078125},
-{"X":-1179.63720703125,"Y":51.18290710449219,"Z":1149.0673828125},
-{"X":-1169.0411376953125,"Y":48.999996185302734,"Z":1147.0506591796875},
-{"X":-1158.8892822265625,"Y":50.24528503417969,"Z":1143.412353515625},
-{"X":-1147.7904052734375,"Y":51.30730056762695,"Z":1147.9505615234375},
-{"X":-1140.0284423828125,"Y":51.965248107910156,"Z":1154.671142578125},
-{"X":-1134.358642578125,"Y":52.58153533935547,"Z":1161.4747314453125},
-{"X":-1126.1129150390625,"Y":52.61402130126953,"Z":1171.002197265625},
-{"X":-1121.470703125,"Y":51.97488784790039,"Z":1180.4007568359375},
-{"X":-1126.1129150390625,"Y":52.61402130126953,"Z":1171.002197265625},
-{"X":-1121.470703125,"Y":51.97488784790039,"Z":1180.4007568359375},
-{"X":-1127.722412109375,"Y":51.722412109375,"Z":1188.485595703125},
-{"X":-1130.56640625,"Y":52.70051956176758,"Z":1197.2449951171875},
-{"X":-1127.231201171875,"Y":51.222373962402344,"Z":1208.191650390625},
-{"X":-1124.7923583984375,"Y":49.20398712158203,"Z":1214.8226318359375},
-{"X":-1120.4124755859375,"Y":46.590641021728516,"Z":1221.1793212890625},
-{"X":-1115.0911865234375,"Y":44.97947692871094,"Z":1227.316162109375},
-{"X":-1110.6015625,"Y":44.96049499511719,"Z":1232.405029296875},
-{"X":-1107.7904052734375,"Y":44.96049499511719,"Z":1236.68017578125},
-{"X":-1102.46533203125,"Y":44.97947692871094,"Z":1244.4605712890625},
-{"X":-1097.1197509765625,"Y":44.97947692871094,"Z":1251.3101806640625},
-{"X":-1094.8048095703125,"Y":44.96049880981445,"Z":1260.080078125},
-{"X":-1089.4989013671875,"Y":51.77230453491211,"Z":1264.6055908203125},
-{"X":-1084.9005126953125,"Y":53.03004455566406,"Z":1274.455078125},
-{"X":-1081.5953369140625,"Y":53.020137786865234,"Z":1284.105712890625},
-{"X":-1084.9005126953125,"Y":53.03004455566406,"Z":1274.455078125},
-{"X":-1081.5953369140625,"Y":53.020137786865234,"Z":1284.105712890625},
-{"X":-1085.59765625,"Y":55.11608123779297,"Z":1293.8118896484375},
-{"X":-1091.7529296875,"Y":57.893699645996094,"Z":1302.572509765625},
-{"X":-1095.866455078125,"Y":60.107364654541016,"Z":1307.800048828125},
-{"X":-1106.486083984375,"Y":60.975223541259766,"Z":1309.8365478515625},
-{"X":-1119.447509765625,"Y":60.999996185302734,"Z":1315.9244384765625},
-{"X":-1133.6480712890625,"Y":61.525264739990234,"Z":1322.8470458984375},
-{"X":-1148.0316162109375,"Y":62.281681060791016,"Z":1326.7449951171875},
-{"X":-1165.60546875,"Y":63.834434509277344,"Z":1331.16259765625},
-{"X":-1186.8419189453125,"Y":68.17442321777344,"Z":1331.2998046875},
-{"X":-1203.7509765625,"Y":65.7563705444336,"Z":1331.068603515625},
-{"X":-1224.6346435546875,"Y":61.74623107910156,"Z":1342.39404296875},
-{"X":-1233.5406494140625,"Y":62.376075744628906,"Z":1349.1624755859375},
-{"X":-1249.4122314453125,"Y":62.342750549316406,"Z":1359.6314697265625},
-{"X":-1259.397705078125,"Y":61.685340881347656,"Z":1366.9151611328125},
-{"X":-1275.071044921875,"Y":61.17401885986328,"Z":1372.027099609375},
-{"X":-1298.658935546875,"Y":61.50044250488281,"Z":1379.3812255859375},
-{"X":-1305.9315185546875,"Y":54.47901916503906,"Z":1386.09375},
-{"X":-1312.9339599609375,"Y":47.38198471069336,"Z":1392.59326171875},
-{"X":-1322.93603515625,"Y":40.254886627197266,"Z":1400.7965087890625},
-{"X":-1328.4461669921875,"Y":33.93598556518555,"Z":1406.475830078125},
-{"X":-1340.26953125,"Y":18.81427574157715,"Z":1412.7724609375},
-{"X":-1348.3861083984375,"Y":17.389726638793945,"Z":1414.7763671875},
-{"X":-1359.0155029296875,"Y":17.58509635925293,"Z":1412.4658203125},
-{"X":-1371.659912109375,"Y":17.593748092651367,"Z":1413.3575439453125},
-{"X":-1386.6151123046875,"Y":17.58832359313965,"Z":1406.421630859375},
-{"X":-1395.1016845703125,"Y":18.486032485961914,"Z":1394.6409912109375},
-{"X":-1405.1075439453125,"Y":20.942184448242188,"Z":1383.9156494140625},
-{"X":-1415.31982421875,"Y":21.745542526245117,"Z":1371.353271484375},
-{"X":-1421.6439208984375,"Y":24.075193405151367,"Z":1359.0003662109375},
-{"X":-1424.8804931640625,"Y":20.822084426879883,"Z":1346.7803955078125},
-{"X":-1425.6805419921875,"Y":20.82208251953125,"Z":1339.070556640625},
-{"X":-1426.9749755859375,"Y":20.803102493286133,"Z":1326.3077392578125},
-{"X":-1431.2593994140625,"Y":22.87319564819336,"Z":1317.256591796875},
-{"X":-1431.8084716796875,"Y":24.437498092651367,"Z":1308.608154296875},
-{"X":-1432.828125,"Y":24.437498092651367,"Z":1299.0489501953125},
-{"X":-1431.8084716796875,"Y":24.437498092651367,"Z":1308.608154296875},
-{"X":-1432.828125,"Y":24.437498092651367,"Z":1299.0489501953125},
-{"X":-1428.015625,"Y":24.437498092651367,"Z":1285.0301513671875},
-{"X":-1419.6800537109375,"Y":24.43735694885254,"Z":1264.6829833984375},
-{"X":-1412.5164794921875,"Y":23.47736930847168,"Z":1245.103515625},
-{"X":-1404.3905029296875,"Y":22.885700225830078,"Z":1233.065673828125},
-{"X":-1396.31103515625,"Y":-2.6858322620391846,"Z":1211.9818115234375},
-{"X":-1389.659423828125,"Y":-3.000000238418579,"Z":1198.2255859375},
-{"X":-1373.7811279296875,"Y":-3.000000238418579,"Z":1184.6234130859375},
-{"X":-1358.2938232421875,"Y":-3.6478270053863525,"Z":1179.5418701171875},
-{"X":-1341.05810546875,"Y":-3.647830820083618,"Z":1168.5687255859375},
-{"X":-1318.296875,"Y":-3.69992995262146,"Z":1153.468017578125},
-{"X":-1298.13427734375,"Y":-3.6999285221099854,"Z":1138.48046875},
-{"X":-1289.0052490234375,"Y":-3.000000238418579,"Z":1126.3017578125},"EndPose"]}
+local Library = loadstring(game:HttpGetAsync("https://github.com/1dontgiveaf/Fluent-Renewed/releases/download/v1.0/Fluent.luau"))()
+local SaveManager = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/1dontgiveaf/Fluent-Renewed/refs/heads/main/Addons/SaveManager.luau"))()
+local InterfaceManager = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/1dontgiveaf/Fluent-Renewed/refs/heads/main/Addons/InterfaceManager.luau"))()
+ 
+local Players = game:GetService("Players")
+local rs = game:GetService("ReplicatedStorage")
+local packets = require(rs.Modules.Packets)
+local plr = Players.LocalPlayer
+local char = plr.Character or plr.CharacterAdded:Wait()
+local root = char and char:WaitForChild("HumanoidRootPart", 5)
+local hum = char and char:WaitForChild("Humanoid", 5)
+local runs = game:GetService("RunService")
+local httpService = game:GetService("HttpService")
+ 
+-- Sigma Parts
+local function createSigmaPart(name, position, size, shape, orientation)
+    local part = Instance.new("Part")
+    part.Name = name
+    part.Parent = workspace
+    part.Anchored = true
+    part.Shape = shape or Enum.PartType.Block
+    part.Position = position
+    part.Size = size
+    part.Color = Color3.fromRGB(0, 255, 130)
+    part.Orientation = orientation or Vector3.new(0, 0, 0)
+    part.Transparency = 0.9
+end
+ 
+createSigmaPart("SigmaPart", Vector3.new(-122, -28, -193), Vector3.new(4, 30, 25), Enum.PartType.Wedge, Vector3.new(0, 180, 0))
+createSigmaPart("SigmaPart2", Vector3.new(-202, 5, -616), Vector3.new(4, 30, 25), Enum.PartType.Wedge, Vector3.new(0, 200, 0))
+createSigmaPart("SigmaPart3", Vector3.new(-214, 18, -627), Vector3.new(12, 1, 12))
+createSigmaPart("SigmaPart4", Vector3.new(-44, -104, -392), Vector3.new(6, 20, 17), Enum.PartType.Wedge)
+createSigmaPart("SigmaPart5", Vector3.new(-45, -94, -374), Vector3.new(13, 1, 13))
+ 
+-- Create Window
+local Window = Library:CreateWindow{
+    Title = "VHub",
+    SubTitle = "Booga Booga",
+    TabWidth = 160,
+    Size = UDim2.fromOffset(830, 525),
+    Resize = true,
+    MinSize = Vector2.new(470, 380),
+    Acrylic = true,
+    Theme = "Dark",
+    MinimizeKey = Enum.KeyCode.RightControl
+}
+ 
+local Tabs = {
+    Settings = Window:AddTab({ Title = "Settings", Icon = "settings" }),
+    Main = Window:AddTab({ Title = "Main", Icon = "menu" }),
+    Combat = Window:AddTab({ Title = "Heal", Icon = "pizza" }),
+    WaypointTab = Window:AddTab({ Title = "Waypoints", Icon = "waypoints" })
+}
+ 
+local Options = Library.Options
+local MainSection = Tabs.Main:Section("Main")
+local HealSection = Tabs.Combat:Section("Eating")
+local CFGSect = Tabs.WaypointTab:Section("Configs")
+local MoveSection = Tabs.WaypointTab:Section("Moving")
+local WaypointSection = Tabs.WaypointTab:Section("Waypoints")
+local PickSection = Tabs.WaypointTab:Section("Item PickUp")
+local AutoHitSect = Tabs.Main:Section("....")
+local AutoCampFire = Tabs.Main:Selection("Main")
+
+-- Delete Old Boards
+WaypointSection:CreateButton({Title = "Delete OldBoards", Callback = function() 
+    game:GetService("RunService").RenderStepped:Connect(function()
+        for i, v in pairs(workspace.Resources:GetDescendants()) do
+            if v.Name == "Old Boards" and workspace.Resources:FindFirstChild("Old Boards") then
+                v:Destroy()
+            end
+        end
+    end)
+end})
+ 
+-- Walkspeed
+local wstoggle = Tabs.Main:CreateToggle("wstoggle", { Title = "Walkspeed", Default = false })
+local wsslider = Tabs.Main:CreateSlider("wsslider", { Title = "Value", Min = 16, Max = 23, Rounding = 1, Default = 16 })
+ 
+-- MaxSlopeAngle
+local msatoggle = Tabs.Main:CreateToggle("msatoggle", { Title = "MountainWalker", Default = false })
+ 
+-- AutoHeal
+local EatToggle = HealSection:AddToggle("EatToggle", { Title = "Heal", Default = false })
+local eatdropdown = HealSection:AddDropdown("eatdropdown", {Title = "Food", Values = {"Bloodfruit", "Bluefruit", "Lemon", "Coconut", "Jelly", "Banana", "Orange", "Oddberry", "Berry", "Strangefruit", "Strawberry", "Sunjfruit", "Pumpkin", "Prickly Pear", "Apple", "Barley", "Cloudberry", "Carrot"}, Default = "Bloodfruit"})
+local HealthCount = HealSection:CreateSlider("HealthCount", { Title = "Health", Min = 1, Max = hum and hum.Health or 100, Rounding = 1, Default = 2 })
+ 
+-- AutoHit Resources
+local resourceauratoggle = AutoHitSect:CreateToggle("resourceauratoggle", { Title = "Hit Resources", Default = false })
+ 
+-- AutoPickup
+local autopickuptoggle = PickSection:CreateToggle("autopickuptoggle", { Title = "Auto Pickup Raw Gold", Default = false })
+ 
+-- Move To Points
+local startMOVE = MoveSection:CreateToggle("StartMoving", { Title = "Start Moving", Default = false })
+ 
+-- Goldfarm Config
+local javaUrl = 'https://raw.githubusercontent.com/XDSCRIPTER/DefaultCFG.json/refs/heads/main/TweensCFG1.json'
+
+--Auto CampFire
+local AutoCamFire = main:CreateToggle("AutoCamFire", { Title = "Auto Camp Fire", Default = false })
+local ItemsToCamp = main:CreateDropdown("ItemsToCamp", {Title = "Select Items To Campfire",Values = {"Log",'Leaves', 'Wood', 'Coal'}, Default = "Wood"})
+ 
+if not workspace:FindFirstChild("DotsFolder") then 
+    local foldFordots = Instance.new("Model")
+    foldFordots.Name = "DotsFolder"
+    foldFordots.Parent = workspace
+end
+ 
+if not workspace.DotsFolder:FindFirstChild("Counter") then 
+    local Counter = Instance.new("IntValue")
+    Counter.Name = "Counter"
+    Counter.Parent = workspace.DotsFolder
+    Counter.Value = 0
+end
+ 
+CFGSect:CreateButton({Title = "GoldFarm Config", Callback = function() 
+    local receivedData = request({ Url = javaUrl, Method = 'GET' })
+    local body = receivedData.Body
+    local WaypointData = httpService:JSONDecode(body)
+    for index, position in WaypointData.position do
+        position = Vector3.new(position.X, position.Y, position.Z)
+        if position ~= Vector3.new(0, 0, 0) then
+            local Dot = Instance.new("Part")
+            Dot.Parent = workspace.DotsFolder
+            Dot.Anchored = true 
+            Dot.Position = position
+            Dot.Name = "Dot"
+            Dot.Size = Vector3.new(1, 1, 1)
+            Dot.Color = Color3.fromRGB(0, 255, 130)
+            Dot.CanCollide = false
+            Dot.Material = Enum.Material.Neon
+            Dot.Shape = Enum.PartType.Ball
+            Dot.Transparency = 0
+            workspace.DotsFolder.Counter.Value = workspace.DotsFolder.Counter.Value + 1
+        end
+    end
+end})
+ 
+local function swingtool(entityid)
+    if packets.SwingTool and packets.SwingTool.send and plr.Character then
+        packets.SwingTool.send(entityid)
+        local animation = Instance.new("Animation")
+        animation.AnimationId = "rbxassetid://10761451679"
+        local humanoid = plr.Character:FindFirstChild("Humanoid")
+        if humanoid then
+            local track = humanoid:LoadAnimation(animation)
+            track:Play()
+        end
+    end
+end
+ 
+local function pickup(entityid)
+    if packets.Pickup and packets.Pickup.send then
+        packets.Pickup.send(entityid)
+    end
+end
+ 
+local function moveToWaypointStand(waypoint)
+    local humanoid = game:GetService("Players").LocalPlayer.Character and game:GetService("Players").LocalPlayer.Character:FindFirstChild("Humanoid")
+    if humanoid then
+        humanoid:MoveTo(waypoint.Position)
+    end
+end
+ 
+local function moveToWaypointsStand()
+    if game:GetService("Players").LocalPlayer and game:GetService("Players").LocalPlayer.Character and workspace:FindFirstChild("DotsFolder") then
+        for _, waypoint in ipairs(workspace.DotsFolder:GetChildren()) do
+            if waypoint.Name ~= "Counter" and waypoint.Name ~= "Highlight" and waypoint.Name ~= "HowMuch" then
+                local humanoid = game:GetService("Players").LocalPlayer.Character:FindFirstChild("Humanoid")
+                if humanoid then
+                    moveToWaypointStand(waypoint)
+                    humanoid.MoveToFinished:Wait()
+                end
+            end
+        end
+    end
+end
+ 
+startMOVE:OnChanged(function()
+    if Options.StartMoving.Value then
+        moveToWaypointsStand()
+        task.spawn(function()
+            while Options.StartMoving.Value do
+                moveToWaypointsStand()
+                task.wait(0.1)
+            end
+            local humanoid = game:GetService("Players").LocalPlayer.Character and game:GetService("Players").LocalPlayer.Character:FindFirstChild("Humanoid")
+            if humanoid and game:GetService("Players").LocalPlayer.Character:FindFirstChild("HumanoidRootPart") then
+                humanoid:MoveTo(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position)
+            end
+        end)
+    end
+end)
+ 
+local wscon
+local function updws()
+    if wscon then wscon:Disconnect() end
+    if Options.wstoggle.Value and hum then
+        wscon = runs.RenderStepped:Connect(function()
+            hum.WalkSpeed = Options.wsslider.Value
+        end)
+    elseif hum then
+        hum.WalkSpeed = 16
+    end
+end
+ 
+local slopecon
+local function updmsa()
+    if slopecon then slopecon:Disconnect() end
+    if Options.msatoggle.Value and hum then
+        slopecon = runs.RenderStepped:Connect(function()
+            hum.MaxSlopeAngle = 90
+        end)
+    elseif hum then
+        hum.MaxSlopeAngle = 46
+    end
+end
+ 
+local function onplradded(newChar)
+    char = newChar
+    root = char:WaitForChild("HumanoidRootPart", 5)
+    hum = char:WaitForChild("Humanoid", 5)
+    if hum then
+        updws()
+        updmsa()
+    end
+end
+ 
+plr.CharacterAdded:Connect(onplradded)
+if hum then
+    updws()
+    updmsa()
+end
+Options.wstoggle:OnChanged(updws)
+Options.msatoggle:OnChanged(updmsa)
+ 
+local function getlayout(itemname)
+    local inventory = plr.PlayerGui:FindFirstChild("MainGui") and plr.PlayerGui.MainGui:FindFirstChild("RightPanel") and plr.PlayerGui.MainGui.RightPanel:FindFirstChild("Inventory") and plr.PlayerGui.MainGui.RightPanel.Inventory:FindFirstChild("List")
+    if inventory then
+        for _, child in ipairs(inventory:GetChildren()) do
+            if child:IsA("ImageLabel") and child.Name == itemname then
+                return child.LayoutOrder
+            end
+        end
+    end
+end
+ 
+local function useItem(itemname)
+    local layout = getlayout(itemname)
+    if layout and packets.UseBagItem and packets.UseBagItem.send then
+        packets.UseBagItem.send(layout)
+    end
+end
+ 
+runs.Heartbeat:Connect(function()
+    if Options.EatToggle.Value and hum and hum.Health <= Options.HealthCount.Value then
+        useItem(Options.eatdropdown.Value)
+    end
+end)
+ 
+task.spawn(function()
+    while true do
+        if not Options.resourceauratoggle.Value then
+            task.wait(0.1)
+            continue
+        end
+        local range = 20
+        local targetcount = 6
+        local cooldown = 0.1
+        local targets = {}
+        for _, res in ipairs(workspace.Resources:GetChildren()) do
+            if res:IsA("Model") and res:GetAttribute("EntityID") then
+                local eid = res:GetAttribute("EntityID")
+                local ppart = res.PrimaryPart or res:FindFirstChildWhichIsA("BasePart")
+                if ppart then
+                    local dist = (ppart.Position - root.Position).Magnitude
+                    if dist <= range then
+                        table.insert(targets, { eid = eid, dist = dist })
+                    end
+                end
+            end
+        end
+        if #targets > 0 then
+            table.sort(targets, function(a, b)
+                return a.dist < b.dist
+            end)
+            local selectedtargets = {}
+            for i = 1, math.min(targetcount, #targets) do
+                table.insert(selectedtargets, targets[i].eid)
+            end
+            swingtool(selectedtargets)
+        end
+        task.wait(cooldown)
+    end
+end)
+ 
+task.spawn(function()
+    while true do
+        local range = 35
+        if Options.autopickuptoggle.Value then
+            for _, item in ipairs(workspace.Items:GetChildren()) do
+                if (item:IsA("BasePart") or item:IsA("MeshPart")) and item.Name == "Raw Gold" then
+                    local entityid = item:GetAttribute("EntityID")
+                    if entityid then
+                        local dist = (item.Position - root.Position).Magnitude
+                        if dist <= range then
+                            pickup(entityid)
+                        end
+                    end
+                end
+            end
+        end
+        task.wait(0.01)
+    end
+end)
+
+SaveManager:SetLibrary(Library)
+InterfaceManager:SetLibrary(Library)
+SaveManager:IgnoreThemeSettings()
+SaveManager:SetIgnoreIndexes{}
+InterfaceManager:SetFolder("FluentScriptHub")
+SaveManager:SetFolder("FluentScriptHub/specific-game")
+InterfaceManager:BuildInterfaceSection(Tabs.Settings)
+SaveManager:BuildConfigSection(Tabs.Settings)
+Window:SelectTab(1)
+SaveManager:LoadAutoloadConfig()
